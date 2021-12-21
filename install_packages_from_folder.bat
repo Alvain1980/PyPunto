@@ -1,0 +1,1 @@
+pip install -r requirements\from_folder.txt

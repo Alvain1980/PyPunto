@@ -1,0 +1,9 @@
+--no-index --find-links=requirements
+numpy
+pillow
+py-win-keyboard-layout
+pynput
+pyperclip
+pywin32
+six
+wxpython
